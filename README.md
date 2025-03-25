@@ -7,6 +7,3 @@ Diego Paz. LinkedIn: www.linkedin.com/in/diegopazvaz
 ## Hiring
 I am currently looking for a professional opportunity as a Data Scientist Jr.
 Contact email: diegopvaz10@gmail.com
-
-## Important note
-This repository is a personal portfolio of data science and it is not open to external contributions. If you have any suggestions or comments, you can contact me via diegopvaz10@gmail.com
